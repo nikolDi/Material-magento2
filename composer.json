@@ -1,5 +1,5 @@
 {
-	"name": "nikdimon/material-magento2",
+	"name": "nikdimon/nik-material-module",
   "description": "NikDimon Magento 2 module",
   "type": "magento2-module",
   "version": "1.0.0",
@@ -17,7 +17,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Nikdimon\\MaterialMagento2\\": ""
+      "Nikdimon\\NikMaterialModule\\": ""
     }
   }
 }

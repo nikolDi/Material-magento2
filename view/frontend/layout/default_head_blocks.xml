@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+    <css src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet" src_type="url"/>
+    <link src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"/>
+
+    </head>
+</page>
